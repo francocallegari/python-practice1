@@ -28,7 +28,7 @@ usar operadores).
 # "strings!"
 
 # COMPLETAR - INICIO
-strings_concatenados = "¡Mamá estoy concatenando strings!"
+strings_concatenados = "¡Mamá " "estoy concatenando " "strings!"
 # COMPLETAR - FIN
 
 assert strings_concatenados == "¡Mamá estoy concatenando strings!"
