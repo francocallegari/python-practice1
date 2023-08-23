@@ -77,8 +77,7 @@ Restricción: Utilizar desempaquetado con comodines
 
 tupla = (73, 45, 344, 3434, 2)
 
-# COMPLETAR - INICIO
-primer = ()
+# COMPLETAR - INICIOs
 primer, *resto = tupla
 # COMPLETAR - FIN
 
